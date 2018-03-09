@@ -6,8 +6,6 @@ public class BigIntegerDemo {
         BigInteger b=new BigInteger("1111111111111111111111111111111111");
 
         System.out.println(b.pow(4));
-
-
         System.out.println(a.multiply(b));
         System.out.println(a.isProbablePrime(100));
     }
