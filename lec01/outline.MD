@@ -29,4 +29,5 @@
 
 ## homework
 - 课程作业:20% http://oj.ahstu.cc/JudgeOnline/contest.php?cid=1150
-- 
+- 期中测试 30%
+- 期末测试 50%

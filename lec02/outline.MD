@@ -14,7 +14,7 @@ double elapsed=(end-start)/1000.0;//转化为second
 - JVM计算模型
 - Integer(进制转化)
 - Math 数值函数
-- Array 数组
+- Arrays 数组
 - Collections 集合
 - Random 随机数算法
 

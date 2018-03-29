@@ -1,7 +1,4 @@
-package zj.lec02;
-
 import java.util.Scanner;
-
 public class P1239 {
 	public static void main(String[] args) {
 		Scanner cin = new Scanner(System.in);
