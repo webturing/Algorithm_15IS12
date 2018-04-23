@@ -30,8 +30,8 @@ class Pipe implements Comparable<Pipe> {
                 '}';
     }
 }
- 
-public class Main {
+
+public class P1572PipeSorting {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         int groups = cin.nextInt();
