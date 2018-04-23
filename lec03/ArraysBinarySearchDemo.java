@@ -10,8 +10,7 @@ public class ArraysBinarySearchDemo {
         if (pos < 0)
             System.out.println("NOT FOUND!");
         else
-            System.out.println(String.format("%d occured at pos=%d firstly.",
-                    key, pos));
+            System.out.println(String.format("%d occured at pos=%d .", key, pos));//二分查找不能保证该元素一定是第一个元素~
 
     }
 }
